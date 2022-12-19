@@ -2,7 +2,7 @@
 """
 Created on Fri Dec  2 21:11:51 2022
 
-@author: user
+@author: Madhoolika
 """
 import speech_recognition as sr
 import pyttsx3
